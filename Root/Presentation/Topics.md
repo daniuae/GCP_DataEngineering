@@ -1,4 +1,4 @@
-# GCP Data Engineering Interview Master Course (Altimetrik & Product Companies)
+# GCP Data Engineering Interview Master Course 
 
 ## Course Overview
 
